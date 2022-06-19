@@ -21,4 +21,9 @@ This is a boilerplate for a MongoDB Flask app that can run as a local poetry-bas
 
 ## Vercel
 
-- If you add any new packages on Poetry, re-generate `requirements.txt` as follows: `poetry export -f requirements.txt --output requirements.txt`
+- If you add any new packages on Poetry, re-generate `requirements.txt` as follows: `poetry export -f requirements.txt --output requirements.txt
+- 
+## store 
+
+- we
+- eee`
